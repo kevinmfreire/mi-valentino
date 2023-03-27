@@ -1,2 +1,3 @@
 # luxury-me
-Building a Machine Learning model to detect different types of luxury brand items.
+This project extract product details from the Velntino website and saves items in a text file in order to
+perform a product analysis. 
