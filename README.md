@@ -1,5 +1,4 @@
 # Mi Valentino
----
 
 ## Requirements
 * Python 3.8.x
